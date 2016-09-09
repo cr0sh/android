@@ -269,7 +269,6 @@
   <project path="device/motorola/defy_common" name="Quarx2k/android_device_moto_jordan-common" remote="github" revision="ics" />
   <project path="device/motorola/jordan" name="Quarx2k/android_device_motorola_jordan" remote="github" revision="ics_common" />
   <project path="device/motorola/jordan_plus" name="Quarx2k/android_device_moto_mb526" remote="github" revision="ics_common" />
-  <project path="device/moto/kobe" name="CyanogenKobe/android_device_moto_mb520" remote="github" revision="ics" />
   <project path="vendor/motorola" name="Quarx2k/proprietary_vendor_motorola" remote="github" revision="ics" />
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
