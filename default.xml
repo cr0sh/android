@@ -246,7 +246,7 @@
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
 
   <project path="hardware/ti/wlan" name="CyanogenDefy/android_hardware_ti_wlan" />
-  <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+  <project path="hardware/ti/wpan" name="CM7-Revived/android_hardware_ti_wpan" />
 
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
